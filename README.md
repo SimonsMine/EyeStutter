@@ -20,4 +20,3 @@ clean.
 
 Feel free to use this code and hack around with it, but please do
 not claim you wrote the original source code.
-Simon Sarginson
